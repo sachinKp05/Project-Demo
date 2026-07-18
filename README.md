@@ -1,4 +1,4 @@
 # Project-Demo
 This is my first Repository
 <br>
-Author : Sachin Kumar
+Author - Sachin Kumar
